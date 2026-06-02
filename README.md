@@ -2,9 +2,9 @@
 
 Estou construindo minha jornada em Segurança Cibernética, com foco em **SOC, Blue Team, análise de logs, SIEM e resposta a incidentes**.
 
-Tenho estudado para a **CompTIA CySA+** e, ao mesmo tempo, estou criando projetos práticos para desenvolver experiência com cenários próximos do dia a dia de um Analista SOC.
+Tenho estudado para a **CompTIA CySA+** e, ao mesmo tempo, venho criando projetos práticos para desenvolver experiência com cenários próximos do dia a dia de um Analista SOC.
 
-A ideia deste GitHub é documentar minha evolução, meus estudos e os laboratórios que estou montando.
+A ideia deste GitHub é documentar minha evolução, meus estudos e os laboratórios que estou montando, compartilhando conhecimento e aprendendo em público ao longo do processo.
 
 ---
 
@@ -41,21 +41,29 @@ No momento, estou direcionando meus estudos para:
 
 ---
 
-## 📂 Projetos em construção
+## 📂 Portfólio prático
 
-| Projeto | O que estou praticando | Status |
-|---|---|---|
-| Brute Force Detection | Análise de falhas de login, eventos Windows e lógica de detecção | Em desenvolvimento |
-| Suspicious PowerShell Execution | Investigação de execução suspeita com Sysmon | Planejado |
-| Phishing Investigation | Análise de e-mail suspeito, links, anexos e indicadores | Planejado |
-| C2 Beaconing Analysis | Análise de tráfego periódico suspeito com Wireshark | Planejado |
-| Vulnerability Prioritization | Priorização de vulnerabilidades usando CVSS e contexto de negócio | Planejado |
+Estou desenvolvendo um portfólio com projetos voltados para investigação, detecção e documentação em ambientes de SOC.
+
+Repositório principal:
+
+- [SOC Analyst Portfolio](https://github.com/Lvmedeiros/lucas-soc-portfolio)
+
+Projetos incluídos:
+
+- Brute Force Detection
+- Suspicious PowerShell Execution
+- Phishing Investigation
+- C2 Beaconing Analysis
+- Vulnerability Prioritization
 
 ---
 
 ## 🚀 Objetivo
 
 Meu objetivo é atuar como **Analista SOC N1** ou **Analista de Segurança Júnior**, aplicando na prática o que venho estudando em monitoramento, investigação, documentação e resposta a incidentes.
+
+A longo prazo, meu propósito é me tornar um dos melhores analistas de cibersegurança do mundo, evoluindo continuamente através do estudo, da prática, do ensino, do compartilhamento de conhecimento e do trabalho em equipe.
 
 ---
 
